@@ -18,6 +18,12 @@
     "recommended": "1"
   },
       {
+    "name": "Starve.io",
+    "image": "starve.jpg"
+    "directory": "starve",
+    "recommended": "1"
+  },
+      {
     "name": "EvoWorld.io",
     "image": "world.jpeg",
     "directory": "evoworld",
@@ -1476,5 +1482,15 @@
     "name": "skribbl.io",
     "directory": "skribbl",
     "image": "skribbl.png"
+  },
+      {
+    "name": "GoBattle.io",
+    "directory": "gobattle",
+    "image": "gobattle.png"
+  },
+      {
+    "name": "CraftNite.io",
+    "directory": "craftnite",
+    "image": "craftnite.jpg"
   }
 ]
