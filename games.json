@@ -1461,5 +1461,20 @@
     "name": "DigDig.io",
     "directory": "Digdig",
     "image": "digdig.png"
+  },
+      {
+    "name": "snowball.io",
+    "directory": "snowball",
+    "image": "snowball.png"
+  },
+      {
+    "name": "buildroyale.io",
+    "directory": "buildroyale",
+    "image": "buildroyale.jpg"
+  },
+      {
+    "name": "skribbl.io",
+    "directory": "skribbl",
+    "image": "skribbl.png"
   }
 ]
