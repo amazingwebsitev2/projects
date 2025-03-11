@@ -83,12 +83,6 @@
     "directory": "pre",
     "recommended": "1"
   },
-  {
-    "name": "Windows XP",
-    "image": "cover.svg",
-    "directory": "xp",
-    "recommended": "1"
-  },
       {
     "name": "Minecraft Infdev",
     "image": "cover.svg",
