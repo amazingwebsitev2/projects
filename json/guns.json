@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Skibidi 1 v 100",
+    "directory": "skibiditoilet",
+    "image": "logo.png"
+  },
+  {
+    "name": "Skibidi Toilet Attack",
+    "directory": "skibiditoiletattack",
+    "image": "logo.png"
+  },
+      {
+    "name": "Gunzer.io",
+    "directory": "gunzer",
+    "image": "gunzer.jpg"
+  },
+      {
+    "name": "ShooterZ",
+    "directory": "shooterz",
+    "image": "shooterz.jpg"
+  },
+      {
+    "name": "",
+    "directory": "",
+    "image": ""
+  },
+      {
+    "name": "",
+    "directory": "",
+    "image": ""
+  }
+]
