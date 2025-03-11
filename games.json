@@ -19,7 +19,7 @@
   },
       {
     "name": "Starve.io",
-    "image": "starve.jpg"
+    "image": "starve.jpg",
     "directory": "starve",
     "recommended": "1"
   },
