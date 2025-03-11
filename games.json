@@ -1544,5 +1544,10 @@
     "name": "ShooterZ",
     "directory": "shooterz",
     "image": "shooterz.jpg"
+  },
+{
+       "name": "SmashKarts.io",
+    "directory": "smashkarts",
+    "image": "smashkarts.jpg"
   }
 ]
