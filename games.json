@@ -1368,6 +1368,7 @@
     "directory": "watermelongame",
     "image": "assets/sprites/tittle.png"
   },
+      // POKEMON
   {
     "name": "Pokemon | FireRed",
     "directory": "pokemon/firered",
@@ -1423,6 +1424,38 @@
     "directory": "pokemon/yellow",
     "image": "cover.png"
   },
+     // MODS
+      {
+    "name": "Whitty Fnf Mod",
+    "directory": "whitty",
+    "image": ""
+  },
+      {
+    "name": "Hex Fnf Mod",
+    "directory": "hex",
+    "image": ""
+  },
+      {
+    "name": "Tricky Fnf Mod",
+    "directory": "tricky",
+    "image": ""
+  },
+      {
+    "name": "Sarvente Fnf Mod",
+    "directory": "sarvente",
+    "image": ""
+  },
+      {
+    "name": "Miku Fnf Mod",
+    "directory": "miku",
+    "image": ""
+  },
+      {
+    "name": "Sky Fnf Mod",
+    "directory": "sky",
+    "image": ""
+  },
+      
   {
     "name": "Krunker.io",
     "directory": "krunker",
@@ -1492,5 +1525,30 @@
     "name": "CraftNite.io",
     "directory": "craftnite",
     "image": "craftnite.jpg"
-  }
+  },
+      {
+    "name": "",
+    "directory": "",
+    "image": ""
+  },
+      {
+    "name": "",
+    "directory": "",
+    "image": ""
+  },
+      {
+    "name": "",
+    "directory": "",
+    "image": ""
+  },
+      {
+    "name": "",
+    "directory": "",
+    "image": ""
+  },
+      {
+    "name": "",
+    "directory": "",
+    "image": ""
+  },
 ]
