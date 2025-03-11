@@ -1368,7 +1368,7 @@
     "directory": "watermelongame",
     "image": "assets/sprites/tittle.png"
   },
-      // POKEMON
+"_POKEMON",
   {
     "name": "Pokemon | FireRed",
     "directory": "pokemon/firered",
@@ -1424,7 +1424,7 @@
     "directory": "pokemon/yellow",
     "image": "cover.png"
   },
-     // MODS
+"_MODS!",
       {
     "name": "Whitty Fnf Mod",
     "directory": "whitty",
@@ -1455,6 +1455,7 @@
     "directory": "sky",
     "image": ""
   },
+      "_more later.",
       
   {
     "name": "Krunker.io",
