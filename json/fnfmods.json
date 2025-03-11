@@ -8,31 +8,31 @@
       {
     "name": "Whitty Fnf Mod",
     "directory": "whitty",
-    "image": ""
+    "image": "whitty.jpg"
   },
       {
     "name": "Hex Fnf Mod",
     "directory": "hex",
-    "image": ""
+    "image": "hex.jpg"
   },
       {
     "name": "Tricky Fnf Mod",
-    "directory": "tricky",
-    "image": ""
+    "directory": "Tricky",
+    "image": "tricky.jpg"
   },
       {
     "name": "Sarvente Fnf Mod",
     "directory": "sarvente",
-    "image": ""
+    "image": "sarvente.jpg"
   },
       {
     "name": "Miku Fnf Mod",
     "directory": "miku",
-    "image": ""
+    "image": "miku.jpg"
   },
       {
     "name": "Sky Fnf Mod",
     "directory": "sky",
-    "image": ""
+    "image": "sky.jpg"
   }
 ]
