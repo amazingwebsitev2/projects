@@ -4,5 +4,36 @@
     "directory": "fridaynightfunkin",
     "image": "fnf-icon.jpg",
     "recommended": "1"
+  },
+      {
+    "name": "Whitty Fnf Mod",
+    "directory": "whitty",
+    "image": ""
+  },
+      {
+    "name": "Hex Fnf Mod",
+    "directory": "hex",
+    "image": ""
+  },
+      {
+    "name": "Tricky Fnf Mod",
+    "directory": "tricky",
+    "image": ""
+  },
+      {
+    "name": "Sarvente Fnf Mod",
+    "directory": "sarvente",
+    "image": ""
+  },
+      {
+    "name": "Miku Fnf Mod",
+    "directory": "miku",
+    "image": ""
+  },
+      {
+    "name": "Sky Fnf Mod",
+    "directory": "sky",
+    "image": ""
   }
+    // more later  
 ]
