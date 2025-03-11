@@ -19,14 +19,44 @@
     "directory": "shooterz",
     "image": "shooterz.jpg"
   },
-      {
-    "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Gun Mayhem",
+    "directory": "gunmayhem",
+    "image": "icon.png"
   },
-      {
-    "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Gun Mayhem 2",
+    "directory": "gunmayhem2",
+    "image": "icon.png"
+  },
+  {
+    "name": "Gun Mayhem Redux",
+    "directory": "gunmayhemredux",
+    "image": "icon.png"
+  },
+  {
+    "name": "Rooftop Snipers",
+    "directory": "rooftopsnipers",
+    "image": "logo.png"
+  },
+  {
+    "name": "Rooftop Snipers 2",
+    "directory": "rooftopsnipers2",
+    "image": "icon.png"
+  },
+  {
+    "name": "Time Shooter",
+    "directory": "timeshooter1",
+    "image": "logo.png"
+  },
+  {
+    "name": "Time Shooter 2",
+    "directory": "timeshooter2",
+    "image": "ts2.jpg"
+  },
+  {
+    "name": "Time Shooter 3",
+    "directory": "timeshooter3",
+    "image": "logo.png"
   }
 ]
