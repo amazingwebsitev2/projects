@@ -4,99 +4,105 @@
     "directory": "adarkroom",
     "image": "icon.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Metroid: Zero Mission",
+    "directory": "metroidzeromission",
+    "image": "zero.jpeg"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Guilty Gear X",
+    "directory": "guiltygear",
+    "image": "ggx.jpg"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Fancy Pants Adventures",
+    "directory": "fancypantsadventures",
+    "image": "fpa.webp"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Baldi's Basics",
+    "directory": "baldis-basics",
+    "image": "splash.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Wordle",
+    "directory": "wordle",
+    "image": "icon.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Offline Paradise",
+    "directory": "offlineparadise",
+    "image": "icon.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "2048",
+    "directory": "2048",
+    "image": "icon.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Super Meat Boy",
+    "directory": "supermeatboy",
+    "image": "icon.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Run 3",
+    "directory": "run3",
+    "image": "icon.jpeg"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Dragon Ball Devolution",
+    "directory": "dragonballdevolution",
+    "image": "images.jpeg"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Run",
+    "directory": "run",
+    "image": "icon.jpeg"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Sandtrix",
+    "directory": "sandtrix",
+    "image": "assets/sprites/appicon.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Sand Game",
+    "directory": "sand",
+    "image": "icon.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Townscaper",
+    "directory": "townscaper",
+    "image": "icon.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Bad Ice Cream",
+    "directory": "badicecream",
+    "image": "bad-ice-cream.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Bad Ice Cream 2",
+    "directory": "badicecream2",
+    "image": "bad-ice-cream-2.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Bad Ice Cream 3",
+    "directory": "badicecream3",
+    "image": "bad-ice-cream-3.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Bad Piggies",
+    "directory": "badpiggies",
+    "image": "badpiggies.png"
   },
-{
-       "name": "",
-    "directory": "",
-    "image": ""
+  {
+    "name": "Bad Time Simulator",
+    "directory": "badtimesimulator",
+    "image": "icon-114.png"
+  },
+      {
+    "name": "Spank the Monkey",
+    "image": "cover.svg",
+    "directory": "spankthemonkey",
+    "recommended": "1"
   }
 ]
