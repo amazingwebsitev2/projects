@@ -1547,7 +1547,8 @@
   },
 {
        "name": "SmashKarts.io",
+    "image": "smashkarts.jpg",
     "directory": "smashkarts",
-    "image": "smashkarts.jpg"
+    "recommended": "1"
   }
 ]
