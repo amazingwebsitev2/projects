@@ -27,7 +27,7 @@ What is SlackrrGames?</h1>
 - **v1:** added a loading screen, new themes. not a big update.
 - **v1.o.1** focused on adding a few games and bug fixes
 - **v1.o.2 BETA** very buggy update, full of big changes like: removing client games and revamping the json file interperating, added profiles.html, sub headers.
-- **v1.o.2:** UPCOMING! will focus on adding more games until 300, focus on finishing profiles.html and sub headers, more quotes!
+- **v1.o.2:** UPCOMING! will focus on adding more games until 300, focus on finishing profiles.html and sub headers,removed windows xp, and more quotes!
 - **v1.o.3 BETA:** UPCOMING! will focus on adding games daily for 2 weeks straight updates! so 5 parts: v1.o.2.1+ until v1.o.3
 - **v1.o.3:** UPCOMING! probably around 400 games, will add Tv.html and ALBIUM which is gonna be worked on until v1.1
 - **v1.o.4:** UPCOMING! will add games until 500 games, then focus on expanding viewership and recomending the original source, will focus on getting more members for the disc. and add weekly themes. and will add holidays.html which will interperate the styles instead of manually interpreting them.
