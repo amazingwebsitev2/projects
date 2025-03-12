@@ -37,7 +37,7 @@ What is SlackrrGames?</h1>
 **resources used**
 - ruffle: allows flash games to be run on the website without any prior installation necessary
 - emulatorjs: enables our collection of game boy color, game boy advance, nintendo ds, snes, nes and sega mega drive to run on the website 
-- seriph: used ReadMe,and Game library.
+- seraph: used ReadMe,and Game library.
 - selenite: repo/forked the project
 **credits**
 -loading screen: @WilardzySenpai
