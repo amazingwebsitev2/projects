@@ -42,6 +42,12 @@
     "recommended": "1"
   },
       {
+    "name": "TAG | Mini Game",
+    "image": "TAG.jpeg",
+    "directory": "TAG",
+    "recommended": "1"
+  },
+      {
     "name": "Eaglercraft 1.5.2",
     "image": "icon.png",
     "directory": "eaglercraft",
@@ -1462,13 +1468,8 @@
   },
 {
        "name": "Neo Fnf Mod",
-    "directory": "",
-    "image": ""
-  },
-{
-       "name": "ZxR | Fnf Mod",
-    "directory": "",
-    "image": ""
+    "directory": "neo",
+    "image": "NEO.jp"
   },
 {
        "name": "Garcello | Fnf Mod",
