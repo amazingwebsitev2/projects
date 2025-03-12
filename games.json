@@ -1,5 +1,11 @@
 [
       {
+    "name": "BallisticChickens",
+    "image": "ballistic.jpeg",
+    "directory": "BallisticChickens",
+    "recommended": "1"
+  },
+      {
     "name": "HaxeFlixel",
     "image": "haxe.png",
     "directory": "haxeflixel",
