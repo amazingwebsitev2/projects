@@ -11,8 +11,8 @@ What is SlackrrGames?</h1>
     <br>
     <br>
     <img src="https://img.shields.io/github/repo-size/ublockedslackrr/ublockedslackrr.github.io?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/stars/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/forks/a456pur/seraph?style=for-the-badge&labelColor=000000&color=1c1c1c">
+    <img src="https://img.shields.io/github/stars/ublockedslackrr/ublockedslackrr.github.io?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
+    <img src="https://img.shields.io/github/forks/ublockedslackrr/ublockedslackrr.github.io?style=for-the-badge&labelColor=000000&color=1c1c1c">
   </p>
 
 ## features
