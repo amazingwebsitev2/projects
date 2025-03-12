@@ -104,5 +104,15 @@
     "image": "cover.svg",
     "directory": "spankthemonkey",
     "recommended": "1"
+  },
+  {
+    "name": "Cubefield",
+    "directory": "cubefield",
+    "image": "assets/unnamed.png"
+  },
+  {
+    "name": "Ballistic Chickens",
+    "directory": "BallisticChickens",
+    "image": "ballistic.png"
   }
 ]
