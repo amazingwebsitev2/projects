@@ -40,9 +40,10 @@ What is SlackrrGames?</h1>
 - seriph: used ReadMe,and Game library.
 - selenite: repo/forked the project
 **credits**
--loading screen:
--original devs:skysthelimit,
+-loading screen:@WilardzySenpai
+-original devs:@skysthelimitt,@a456pur
 -games:3hk0
+-fnf mod srcs: @skysthelimitt(original),@Klxntic(mod iframes),@FirePlayz132(tricky mod,haxeflixel)
 **game assets**
 - 3kh0: [game asset repository](https://github.com/3kh0/3kh0-Assets)
 - selenite: [selenite repository](https://github.com/selenite-cc/selenite)
