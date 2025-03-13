@@ -202,13 +202,13 @@
   {
     "name": "Celeste",
     "directory": "celeste",
-    "image": "icon.png",
+    "image": "celeste.jpg",
     "recommended": "1"
   },
   {
     "name": "Mario",
     "directory": "mario",
-    "image": "icon.png"
+    "image": "64.jpg"
   },
   {
     "name": "60s Burger Run",
@@ -233,7 +233,7 @@
   {
     "name": "Bloons Tower Defense 3",
     "directory": "btd3",
-    "image": "icon.png"
+    "image": "btd3.jpeg"
   },
   {
     "name": "Avalanche",
@@ -929,12 +929,12 @@
   {
     "name": "Bloons Tower Defense",
     "directory": "btd",
-    "image": "logo.webp"
+    "image": "btd.jpeg"
   },
   {
     "name": "Bloons Tower Defense 2",
     "directory": "btd2",
-    "image": "logo.webp"
+    "image": "btd2.jpeg"
   },
   {
     "name": "Bloons Tower Defense 4",
