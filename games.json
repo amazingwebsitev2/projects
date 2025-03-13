@@ -208,7 +208,7 @@
   {
     "name": "Mario",
     "directory": "mario",
-    "image": "64.jpg"
+    "image": "icon.png"
   },
   {
     "name": "60s Burger Run",
@@ -418,7 +418,7 @@
   {
     "name": "Super Mario 64",
     "directory": "supermario64",
-    "image": "icon.png",
+    "image": "64.jpg",
     "recommended": "1"
   },
   {
