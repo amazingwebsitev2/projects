@@ -273,7 +273,7 @@
   {
     "name": "Crossy Road",
     "directory": "crossyroad",
-    "image": "chicken.png"
+    "image": "crossy.jpg"
   },
   {
     "name": "Wall Smash",
@@ -519,7 +519,7 @@
   {
     "name": "Duck Life 1",
     "directory": "ducklife1",
-    "image": "ducklife1.png"
+    "image": "ducklife.jpeg"
   },
   {
     "name": "Duck Life 2",
@@ -1486,7 +1486,7 @@
   {
     "name": "Krunker.io",
     "directory": "krunker",
-    "image": "logo.png"
+    "image": "krunk.png"
   },
   {
     "name": "Shell Shockers.io",
