@@ -18,7 +18,7 @@
 	z-index: 100000000;
 }
 .preloader:before {
-	content: 'Underrated Games';
+	content: 'Underrated';
 	position: absolute;
 	font-size: 12em;
 	font-weight: 900;
