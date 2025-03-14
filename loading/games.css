@@ -18,7 +18,7 @@
 	z-index: 100000000;
 }
 .preloader:before {
-	content: 'Sl4ckrr Games';
+	content: 'Games';
 	position: absolute;
 	font-size: 12em;
 	font-weight: 900;
