@@ -42,7 +42,7 @@ header,
   top: 0;
   border-radius: 0 0 20px 20px;
   position: fixed;
-  box-shadow: 0 5px 10px var(--uibg);
+  /* box-shadow: 0 5px 10px var(--uibg); */
 }
 marquee{
   align-items: center;
@@ -56,7 +56,7 @@ footer.noscroll {
 footer {
   bottom: 0;
   border-radius: 20px 20px 0 0;
-  box-shadow: 0 -5px 10px var(--uibg);
+  /* box-shadow: 0 -5px 10px var(--uibg); */
 }
 footer a,
 footer a:visited,
@@ -71,7 +71,7 @@ header a:visited {
 
 footer a:hover,
 header a:hover {
-  text-shadow: 2px 2px 6px var(--textcolor);
+  /* text-shadow: 2px 2px 6px var(--textcolor); */
 }
 main {
   animation: 1.25s ease-in-out 0s 1 loadInAnimation;
@@ -96,7 +96,7 @@ a,
 label {
   margin: 0;
   padding: 0;
-  text-shadow: var(--shadow);
+  /* text-shadow: var(--shadow); */
 }
 .samerow {
   display: flex;
