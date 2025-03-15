@@ -1,5 +1,11 @@
 [
       {
+    "name": "I AM MUSIC | ALBUM",
+    "image": "MUSIC.png",
+    "directory": "IAMMUSIC",
+    "recommended": "1"
+  },
+      {
     "name": "Ballistic Chickens",
     "image": "ballistic.jpeg",
     "directory": "ballisticchickens",
