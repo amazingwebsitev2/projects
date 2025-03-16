@@ -25,6 +25,7 @@ nav{
 }
 .user-img{
     width: 40px;
+    height: 40px;
     border-radius: 50%;
     cursor: pointer;
     margin-left: 30px;
@@ -68,6 +69,7 @@ nav ul li a{
 }
 .user-info img{
     width:60px;
+    height:60px;
     border-radius:50%;
     margin-right: 15px;
 }
@@ -90,6 +92,7 @@ nav ul li a{
 }
 .sub-menu-link img{
     width:40px;
+    height:40px;
     background: #e5e5e5;
     border-radius:50%;
     padding: 8px;
