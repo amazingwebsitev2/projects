@@ -10,29 +10,39 @@
     
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.9.0/cdn/themes/dark.css" />
      <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.9.0/cdn/shoelace-autoloader.js"></script>
-
-
+  
 
     <!-- initialize my stuff -->
+    <script src="/js/all.js"></script>
+    <script src="/js/main.js"></script>
+<script src="/js/themes.js"></script>
+    <script src="/js/randomquote.js"></script>
+    <link rel="stylesheet" href="/themes.css" />
+    <link rel="stylesheet" href="/style.css" />
         <!--thanks to @WilardzySenpai-->
     <link rel="stylesheet" href="loading/splat.css" />
+
+
+
+    <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+      new Crate({
+          server: '1148719137238040606', // Selenite
+          channel: '1173731814196645909' // #commands
+      })
+    </script>
+
 
     <!-- seo + other things -->
     <title>Splatoon | slackrrGames</title>
     <link rel="icon" href="/favicon.ico" />
-
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-
-    <!-- toastify -->
-    <script>
-      </script>
   </head>
-      
+    
     <!--LOADING SCREEN BY @WilardzySenpai 03- -->
     
         <div class="preloader">
         <div class="counter">0</div>
     </div>
+    <section>
     <!-- Loading Script -->
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script type="text/javascript">
@@ -46,11 +56,33 @@
 				  $('.preloader').addClass('active')
 			  }
         // 1-100, 1 superfast countdown 50 mild countdown and so on, the higher number the slower.
-		  },40)
+		  },25)
 	  }
 	  counter()
 </script>
-  <body id="noscroll">
+
+	    
+  <alerts>
+    <sl-dialog label="Welcome to SlackrrGames!" class="dialog-width" style="--width: 60vw;display:none;">
+      You will be able to play over 270 high quality games, and we have many tools to make your experience better.
+      <br>
+      Wanting to transfer your data from another website? Try the transfer utility in the footer!
+      <br>
+      Want to support the development of Slackrr? Join the <a href="https://discord.gg/7jyufnwJNf">Discord</a> and support sky on <a href="https://patreon.com/selenitecc">Patreon</a>!
+      <br>
+      Learn more about Slackrr at the about page in the header!
+      <br>
+      Try out the Minified bookmarklet in the bookmarklets page!
+      <br>
+      Have a great day!
+      <sl-button slot="footer" variant="neutral">Close</sl-button>
+    </sl-dialog>
+  </alerts>
+  <body>
+        
+    <body id="noscroll">
+ 
+    <main>
 
     <main id="main" class="noscroll"> 
 <embed src="https://scratch.mit.edu/projects/815938308/embed">
@@ -74,7 +106,6 @@ embed{
 <h1>loading...</h1>
     </main>
     
-
     
   </body>
 </html>
