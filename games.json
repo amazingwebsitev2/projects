@@ -1,5 +1,11 @@
 [
       {
+    "name": "Splatoon | Scratch",
+    "image": "splat.jpg",
+    "directory": "splatoon",
+    "recommended": "1"
+  },
+      {
     "name": "I AM MUSIC | ALBUM",
     "image": "MUSIC.png",
     "directory": "IAMMUSIC",
