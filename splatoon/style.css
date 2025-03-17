@@ -10,7 +10,7 @@ body{
 }
 .container{
 position:fixed;
-margin-left:-3150px;
+margin-left:-2800px;
 height:800px;
 width:200px;
 border: 1000px solid black;
@@ -18,7 +18,7 @@ color:black;
 }
 .container2{
 position:fixed;
-margin-left:3150px;
+margin-left:2800px;
 height:800px;
 width:200px;
 border: 1000px solid black;
