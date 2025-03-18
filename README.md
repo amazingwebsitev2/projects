@@ -66,7 +66,7 @@ although i dont mind not being credited, please don't just do something as simpl
 tldr; take anything game/app you want without credit!! add/modify seraph if you want, however don't replace my credit on the actual site if you can
 
 ## contributing
-- join either mine or especially sky and seriph and harpers disc servers bellow:
+- join either mine or **especially** sky, seriph and harpers disc servers bellow:
 
 - comment on games and suggest new games and/or participate in community theme votes every week! at:
 - play the games & share to people!
