@@ -11,6 +11,12 @@
     "directory": "IAMMUSIC",
     "recommended": "1"
   },
+{
+    "name": "SmashKarts.io",
+    "image": "smashkarts.jpg",
+    "directory": "smashkarts",
+    "recommended": "1"
+  },
       {
     "name": "Ballistic Chickens",
     "image": "ballistic.jpeg",
@@ -1589,10 +1595,9 @@
     "directory": "shooterz",
     "image": "shooterz.jpg"
   },
-{
-       "name": "SmashKarts.io",
-    "image": "smashkarts.jpg",
-    "directory": "smashkarts",
-    "recommended": "1"
+      {
+    "name": "ferals.io",
+    "directory": "feral",
+    "image": "feral.png",
   }
 ]
