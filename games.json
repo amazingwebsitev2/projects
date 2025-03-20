@@ -344,6 +344,11 @@
     "image": "splash.png"
   },
   {
+    "name": "Venge.io",
+    "directory": "venge",
+    "image": "venge.jpeg"
+  },
+  {
     "name": "Dino",
     "directory": "dino",
     "image": "icon.png"
@@ -1609,5 +1614,10 @@
     "name": "ferals.io",
     "directory": "feral",
     "image": "feral.png"
+  },
+      {
+    "name": "deeeep.io",
+    "directory": "deeeep",
+    "image": "deeeep.jpeg"
   }
 ]
