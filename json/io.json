@@ -1,4 +1,9 @@
 [
+{
+    "name": "SmashKarts.io",
+    "directory": "smashkarts",
+    "image": "smashkarts.jpg"
+  },
       {
     "name": "Lordz.io",
     "image": "lordz.png",
@@ -82,5 +87,60 @@
     "name": "DigDig.io",
     "directory": "Digdig",
     "image": "digdig.png"
+  },
+      {
+    "name": "snowball.io",
+    "directory": "snowball",
+    "image": "snowball.png"
+  },
+      {
+    "name": "buildroyale.io",
+    "directory": "buildroyale",
+    "image": "buildroyale.jpg"
+  },
+      {
+    "name": "skribbl.io",
+    "directory": "skribbl",
+    "image": "skribbl.png"
+  },
+      {
+    "name": "GoBattle.io",
+    "directory": "gobattle",
+    "image": "gobattle.png"
+  },
+      {
+    "name": "CraftNite.io",
+    "directory": "craftnite",
+    "image": "craftnite.jpg"
+  },
+      {
+    "name": "Brutal.io",
+    "directory": "brutal",
+    "image": "brutal.png"
+  },
+      {
+    "name": "Gunzer.io",
+    "directory": "gunzer",
+    "image": "gunzer.jpg"
+  },
+      {
+    "name": "ShooterZ",
+    "directory": "shooterz",
+    "image": "shooterz.jpg"
+  },
+      {
+    "name": "ferals.io",
+    "directory": "feral",
+    "image": "feral.png"
+  },
+      {
+    "name": "deeeep.io",
+    "directory": "deeeep",
+    "image": "deeeep.jpeg"
+  },
+      {
+    "name": "Kirka.io",
+    "directory": "kirka",
+    "image": "logo.png"
   }
 ]
