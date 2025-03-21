@@ -58,5 +58,45 @@
     "name": "Time Shooter 3",
     "directory": "timeshooter3",
     "image": "logo.png"
+  },
+  {
+    "name": "Funny Shooter",
+    "directory": "funnyshooter",
+    "image": "icon.jpeg"
+  },
+  {
+    "name": "Funny Shooter 2",
+    "directory": "funnyshooter2",
+    "image": "894abba63a6b23fed823f404831f444f.jpeg"
+  },
+  {
+    "name": "Totally Accurate Battle Simulator",
+    "directory": "tabs",
+    "image": "unnamed.png"
+  },
+      {
+    "name": "Splatoon | Scratch",
+    "directory": "splatoon",
+    "image": "splat.jpg",
+  },
+  {
+    "name": "Venge.io",
+    "directory": "venge",
+    "image": "venge.jpeg"
+  },
+      {
+    "name": "POOM",
+    "directory": "poom",
+    "image": "cover.svg",
+  },
+  {
+    "name": "DOOM",
+    "directory": "doom",
+    "image": "cover.svg",
+  },
+  {
+    "name": "Bubble Shooter",
+    "directory": "bubbleshooter",
+    "image": "cover.svg",
   }
 ]
