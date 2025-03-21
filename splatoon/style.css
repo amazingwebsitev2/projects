@@ -43,6 +43,6 @@ color:black;
 embed{
   width:100vw;
   height:100vh;
-  position: center;
+  position: absolute;
   margin-bottom:40px;
 }
