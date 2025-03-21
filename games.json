@@ -1619,5 +1619,10 @@
     "name": "deeeep.io",
     "directory": "deeeep",
     "image": "deeeep.jpeg"
+  },
+      {
+    "name": "Kirka.io",
+    "directory": "kirka",
+    "image": "logo.png"
   }
 ]
