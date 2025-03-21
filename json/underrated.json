@@ -114,5 +114,15 @@
     "name": "Ballistic Chickens",
     "directory": "BallisticChickens",
     "image": "ballistic.png"
+  },
+  {
+    "name": "Venge.io",
+    "directory": "venge",
+    "image": "venge.jpeg"
+  },
+  {
+    "name": "Dante",
+    "directory": "dante",
+    "image": "icon.png"
   }
 ]
