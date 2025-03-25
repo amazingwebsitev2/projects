@@ -7,13 +7,13 @@
   },
       {
     "name": "I AM MUSIC | ALBUM",
-    "image": "MUSIC.png",
+    "image-big": "MUSIC.png",
     "directory": "IAMMUSIC",
     "recommended": "1"
   },
 {
     "name": "SmashKarts.io",
-    "image": "smashkarts.jpg",
+    "image-big": "smashkarts.jpg",
     "directory": "smashkarts",
     "recommended": "1"
   },
