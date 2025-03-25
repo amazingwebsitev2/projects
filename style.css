@@ -190,6 +190,11 @@ img {
   border-radius: 20px;
   aspect-ratio: 1 / 1;
 }
+.game img-big, .suggest img-big {
+  width: 140%;
+  border-radius: 20px;
+  aspect-ratio: 1 / 1;
+}
 
 img.star {
   float: left;
